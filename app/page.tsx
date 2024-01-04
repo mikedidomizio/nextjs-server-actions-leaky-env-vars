@@ -16,7 +16,7 @@ export default function Home() {
       Right click and inspect this to see the environment variable leaked.
       <br />
       Inside the form is input with name `$ACTION_0:1`, this is the environment
-      variable above
+      variable in the code above
       <br />
       <input
         className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
